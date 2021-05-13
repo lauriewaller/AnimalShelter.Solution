@@ -15617,6 +15617,17 @@
     "CSharpLanguageVersion": 900
   },
   "RootNamespace": "AnimalShelter",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "/Users/lauriewaller/Documents/EP/Animals.Solution/AnimalShelter/Views/Animals/Create.cshtml",
+      "TargetPath": "AnimalShelter\\Views\\Animals\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/lauriewaller/Documents/EP/Animals.Solution/AnimalShelter/Views/Animals/Index.cshtml",
+      "TargetPath": "AnimalShelter\\Views\\Animals\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
